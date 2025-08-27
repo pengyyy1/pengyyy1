@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/29/26/04/292604fca42f49a6517090b6f9f5d98d.gif" alt="Underwater Ocean GIF" width="450"/>
+  <img src="https://i.pinimg.com/originals/29/26/04/292604fca42f49a6517090b6f9f5d98d.gif" alt="Underwater Ocean GIF" width="475"/>
 </p>
 
 <p align="center">
