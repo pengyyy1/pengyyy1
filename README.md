@@ -73,6 +73,5 @@ On this GitHub, you’ll find:
 **Contact Me:**
 - 📫 Email: pyujun68@gmail
 - 🌐 Personal Site: [pengy1.netlifly.app](https://pengy1.netlify.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/myprofile)
 
 </details>
