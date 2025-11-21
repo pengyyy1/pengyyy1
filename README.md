@@ -1,77 +1,21 @@
-<h1 align="center">
-  🌊 Hey there, welcome to my ocean-inspired GitHub! 🐠
-</h1>
+# 💫 About Me:
+Hi! I have a passion for coding, math, problem-solving, and helping others build cool things. I enjoy experimenting with web technologies and finding ways to use code for good causes. please note most repo's are old and not an accurate representation of my current abilities.
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/29/26/04/292604fca42f49a6517090b6f9f5d98d.gif" alt="Underwater Ocean GIF" width="450"/>
-</p>
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=pengyyy1&style=for-the-badge&color=00bfff&label=VISITS" alt="Profile Views"/>
-  </a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/awesome_sauce_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yupeng10221) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yu-jun-peng-583790368/) 
 
----
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pengyyy1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pengyyy1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pengyyy1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🐚 A Bit About Me
-
-Hey! I’m a tech enthusiast with a passion for coding, math, problem-solving, and helping others build cool things. I enjoy experimenting with web technologies and finding ways to use code for good causes. *please note most repo's are old and not an accurate representation of my current abilities.*
-
-- 💻 Currently exploring: Web Dev, Python, and creative coding projects.
-- 🌱 Always learning and tinkering with new tools and frameworks.
-- 🤝 Love collaborating with others on projects.
-
-### 🚀 What I'm Up To
-
-- Co-founded the JavaScript Society, where we help each other learn, teach, and build new projects.
-- Webmaster for a non-profit - YouthforYouth.
-- Always looking to connect with fellow tech enthusiasts, collaborate, or chat about web development!
-
-   </td>
-   <td width="50%" valign="top">
-
-### 🌊 What You'll Find Here
-
-On this GitHub, you’ll find:
-
-- ⚡️ JavaScript projects and web apps
-- 🌍 Tech for youth empowerment and non-profits
-- 🛠️ Creative coding experiments and side projects
-
-### 🔧 Skills & Tools
-
-- **Coding:** JavaScript, Python, CSS, Skript (Minecraft Plugins)
-- **Productivity:** Excel, PowerPoint
-
-   </td>
-  </tr>
-</table>
-
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=pengyyy1&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+diving+in!;Let's+build+something+awesome!;Feel+free+to+connect+below!&font=Fira%20Code&center=true&width=430&height=45&duration=3000&pause=1000&color=00bfff&vCenter=true" alt="Typing SVG"/>
-</p>
-
----
-
-<details>
-<summary>💡 <b>Fun Facts & Connect</b></summary>
-
-- Love the outdoors, fishing, snorkelling, and hiking.
-- Love eating and cooking!
-
-**Contact Me:**
-- 📫 Email: pyujun68@gmail
-- 🌐 Personal Site: [pengy1.netlifly.app](https://pengy1.netlify.app/)
-
-</details>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
